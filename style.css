@@ -31,6 +31,7 @@ h1 {
 
 .nombre2, .email2, .contraseña2, .apellido2, :hover {
   background-color: black;
+  color: aliceblue;
 }
 
 .boton {
